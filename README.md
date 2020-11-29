@@ -1,6 +1,6 @@
-# AdityaIGIB
+# Work done by Aditya Agarwal at CSIR - IGIB
 
-Research and Literature Review
+### Research and Literature Review
 
 https://www.pnas.org/content/115/18/E4304 - Deep learning improves prediction of drug–drug and drug–food interactions
 
@@ -20,14 +20,22 @@ Mardia K.: Multi-dimensional multivariate Gaussian Markov random fields with app
 
 Markov and Hidden Markov Models of Genomic and Protein Features - https://www.youtube.com/watch?v=d5NMrA2HkG4
 
-Aim
+### Aim
 
-To study and utilise the LINCS1000 database.
+1. To study and utilise the LINCS1000 database.
         - Understanding the data
         - Extracting the data
         - Automating the extraction
         - Converting the data into usable format for any biologist
         
-To utilise gene expression data to predict gene expression from composite variation
+2. To utilise gene expression data to predict gene expression from composite variation
+
+### Results
+
+Developed small scale Hidden Markov Model to predict gene expression based on eQTL expression values.
+
+### Future Scope
+
+Apply the model to the whole dataset of eQTLs from the GTEx consortium
         
 
